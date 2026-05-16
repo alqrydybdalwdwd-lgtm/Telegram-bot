@@ -1,0 +1,9 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 1, in <module>
+    from telegram import Update
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telegram/__init__.py", line 69, in <module>
+    from .files.inputfile import InputFile
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telegram/files/inputfile.py", line 22, in <module>
+    import imghdr
+ModuleNotFoundError: No module named 'imghdr'

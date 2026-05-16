@@ -1,0 +1,28 @@
+{
+    "5716357377": {
+        "bots": {
+            "\u0627\u0644\u0631\u062f \u0627\u0644\u0622\u0644\u064a \u0627\u0644\u062e\u0627\u0635": {
+                "token": "7967172764:AAG5oQpVJxhC6V-sm76Izh-yp9cI5MGiM7Y",
+                "type": "reply",
+                "owner": "5716357377",
+                "replies": {
+                    "\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u062c\u0627\u0645\u0639\u064a": {
+                        "type": "photo",
+                        "content": "AgACAgQAAxkBAAMHageKUNFFLkk8FQIkHGbyslwTPjYAApANaxu8DkFQyZj43qnYl1sBAAMCAAN3AAM7BA"
+                    },
+                    "\u0627\u0644\u0627\u062e\u062a\u0628\u0627\u0631": {
+                        "type": "photo",
+                        "content": "AgACAgQAAxkBAAMNageKZdbnGixtlK0avrGQUuNF0kgAApENaxu8DkFQp4QryVhbI08BAAMCAAN3AAM7BA"
+                    },
+                    "\u0627\u0644\u0627\u0646": {
+                        "type": "text",
+                        "content": "254"
+                    }
+                }
+            }
+        }
+    },
+    "6707728121": {
+        "bots": {}
+    }
+}
